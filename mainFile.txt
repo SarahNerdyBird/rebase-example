@@ -1,4 +1,4 @@
 M1
 M2
 M3
-New line
+New resolved line
